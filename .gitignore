@@ -63,13 +63,26 @@ node_modules/
 
 # shared session projects
 /radio-ish 2 Project/
-/radioish Project/
-/Advertising/
-/Archive/
-/_qc_tmprender/
+
+# NOTE: Advertising/, radioish Project/ and create_lab_mix.sh are deliberately
+# NOT listed here. They are small and are real documentation/source, so they
+# belong in git. An earlier revision ignored them and silently dropped them.
+
+# Social_Media: keep the playbook, captions, manifests and helper scripts;
+# drop the platform media and the heavy artwork (83.6 MB of images, 41 over 1 MB)
+/Social_Media/posters/
+/Social_Media/promo/*/*.png
+/Social_Media/promo/*/*.jpg
+/Social_Media/promo/*/*.jpeg
+/Social_Media/**/*.mp4
+/Social_Media/**/*.mov
 
 # .gitignore itself must not be re-ignored
 !.gitignore
 
 # NOTE: do NOT blanket-ignore EPK_Project/ or QC_Reports/ — those hold the
 # per-artist text/QC records that this repo exists to publish.
+
+# superseded masters live here; keep out of git (never deleted)
+/Archive/
+/_qc_tmprender/

@@ -1,0 +1,484 @@
+
+INODE 11243337 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX060794.mp3
+
+INODE 11243360 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX050794.mp3
+
+INODE 11243371 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX040794.mp3
+
+INODE 11243399 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX030794.mp3
+
+INODE 11243435 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX020794.mp3
+
+INODE 11952544 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 13-23-56.mp3
+
+INODE 11952550 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 13-29-53.mp3
+
+INODE 11952551 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-25-11.mp3
+
+INODE 11952552 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-27-26.mp3
+
+INODE 11952553 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-28-46.mp3
+
+INODE 11952558 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-58-38.mp3
+
+INODE 11952559 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 15-26-03.mp3
+
+INODE 11952595 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 16-20-01.mp3
+
+INODE 11952632 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 11-44-48.mp3
+
+INODE 11952633 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 13-50-15.mp3
+
+INODE 11952634 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-12-12.mp3
+
+INODE 11952637 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-17-17.mp3
+
+INODE 11952638 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-48-45.mp3
+
+INODE 11952722 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 16-10-55.mp3
+
+INODE 11952765 (1 members):
+    /Users/bernie/Movies/Radio-ish/Maya/epk/audio/2026-09-05 15-01-00.mp3
+
+INODE 11963962 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/14-48-45_cleaned.mp3
+
+INODE 11966915 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48.mp3_cleaned.mp3
+
+INODE 11966916 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15.mp3_cleaned.mp3
+
+INODE 11966917 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12.mp3_cleaned.mp3
+
+INODE 11966922 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17.mp3_cleaned.mp3
+
+INODE 11966923 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45.mp3_cleaned.mp3
+
+INODE 11967083 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48_cleaned.mp3
+
+INODE 11967100 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15_cleaned.mp3
+
+INODE 11967103 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12_cleaned.mp3
+
+INODE 11967104 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17_cleaned.mp3
+
+INODE 11967177 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45_cleaned.mp3
+
+INODE 11967178 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 16-10-55_cleaned.mp3
+
+INODE 11967765 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48.mp3_hq.mp3
+
+INODE 11967766 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15.mp3_hq.mp3
+
+INODE 11967767 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12.mp3_hq.mp3
+
+INODE 11967772 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17.mp3_hq.mp3
+
+INODE 11967773 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45.mp3_hq.mp3
+
+INODE 11969097 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 13-23-56_hq.mp3
+
+INODE 11969099 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 13-29-53_hq.mp3
+
+INODE 11969104 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 14-25-11_hq.mp3
+
+INODE 11979940 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX020794_hq.mp3
+
+INODE 11979955 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX030794_hq.mp3
+
+INODE 11979985 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX040794_hq.mp3
+
+INODE 11979998 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX050794_hq.mp3
+
+INODE 11980003 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX060794_hq.mp3
+
+INODE 11981956 (3 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/maya_30s.mp3
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Maya/maya_30s.mp3
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Maya/maya_segment.mp3
+
+INODE 11981971 (2 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Parisa/parisa_45s.mp3
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Parisa/parisa_segment.mp3
+
+INODE 11982171 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/lab_mix_sequential.mp3
+
+INODE 11984456 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/habib_aug31_1323.mp3
+
+INODE 11984457 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/habib_aug31_1427.mp3
+
+INODE 11984458 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/sdkz_sep3_1144.mp3
+
+INODE 11984459 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/sdkz_sep3_1417.mp3
+
+INODE 11984460 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/maya_sep05.mp3
+
+INODE 11984461 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/GX020794.mp3
+
+INODE 11984462 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/GX030794.mp3
+
+INODE 11984600 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 13-23-56.mp3
+
+INODE 11984601 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 13-29-53.mp3
+
+INODE 11984602 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-25-11.mp3
+
+INODE 11984603 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-27-26.mp3
+
+INODE 11984604 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-28-46.mp3
+
+INODE 11984605 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-58-38.mp3
+
+INODE 11984606 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 15-26-03.mp3
+
+INODE 11984607 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 16-20-01.mp3
+
+INODE 11984608 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 11-44-48.mp3
+
+INODE 11984609 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 13-50-15.mp3
+
+INODE 11984610 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-12-12.mp3
+
+INODE 11984611 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-17-17.mp3
+
+INODE 11984612 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-48-45.mp3
+
+INODE 11984613 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 16-10-55.mp3
+
+INODE 11984614 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX020794.mp3
+
+INODE 11984616 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX030794.mp3
+
+INODE 11984617 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX040794.mp3
+
+INODE 11984619 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX050794.mp3
+
+INODE 11984620 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX060794.mp3
+
+INODE 11984621 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/habib_mix.mp3
+
+INODE 11984622 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/sdkz_mix.mp3
+
+INODE 11985117 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Maya_Sep5/2026-09-05 15-01-00.mp3
+
+INODE 11985258 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Mixcloud/habib_mix.mp3
+
+INODE 11985260 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Mixcloud/sdkz_mix.mp3
+
+INODE 11987287 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Blanko - Harmonic Density (Original Mix) [Brickbeat Syndicate].mp3
+
+INODE 11987288 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Kaltraum - Harmonic Blur (Original Mix) [Club Flora Music].mp3
+
+INODE 11987289 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/John Gregory - Natural (Original Mix) [Deep Clicks].mp3
+
+INODE 11987290 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/DJ LINCS - 118bpm (Original Mix) [Deep Clicks].mp3
+
+INODE 11987291 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Jankolo - Come With Me (Original Mix) [GNTLMN].mp3
+
+INODE 11987292 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Antoine Pete - Day To Day (Original Mix) [Cross Land Music].mp3
+
+INODE 11987293 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/DJ Romain - Move It Up (Original Mix) [Rhythm Movement Music].mp3
+
+INODE 11987294 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Li.La, Deephope - All You Need (Vocal Mix) [i! Records].mp3
+
+INODE 11987295 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Nestro DaProducer, Nuf DeE - We Together (Original Mix) [Lilac Jeans Records].mp3
+
+INODE 11987296 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Danism, Toshi, Train (UK) - More (Rocco Rodamaal Extended Deep Mix) [SoSure Music]-2.mp3
+
+INODE 11987297 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Floyo, Chris Adanté, Amaka (UK) - In My Soul (Extended Mix) [Sunset Harmony].mp3
+
+INODE 11987298 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Taleon - Miraluna (Original Mix) [Undercool Productions].mp3
+
+INODE 11987299 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Cairo CPT, Mathousand16, Nomakrestu Xakathugaga - Gibixhegu (Original Mix) [Studio44 Cape Town].mp3
+
+INODE 11987300 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Alper Yigit, Special K (SY) - Tambura (Original Mix) [Yulunga Music].mp3
+
+INODE 11987301 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Easttown - Start Again (Original Mix) [Cecille]-2.mp3
+
+INODE 11987302 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/DJ Chus, Rob More - Disco Verbena (Dub Mix) [Stereo Productions].mp3
+
+INODE 11987303 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Tony Romera - La Police (Extended Mix) [Edible].mp3
+
+INODE 11987304 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Jaden Pace - Magnet (Original Mix) [Mood Child].mp3
+
+INODE 11987305 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Oliver Gil, Claudia León - Loco Morocco (DJ CHUS Remix) [REDOLENT].mp3
+
+INODE 11987306 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Patrick M - Le Pop (Extended Mix) [Stereo Productions].mp3
+
+INODE 11987307 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Ivan Romero - Aura (DJ CHUS Remix) [REDOLENT].mp3
+
+INODE 11987308 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Âme, Busiswa - Pha Na Pha (Original Mix) [Innervisions].mp3
+
+INODE 11987342 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Mauvais Parisien. (Feat Dufonk) - J'ai mon Age  [Soulmetric Records].mp3
+
+INODE 11987343 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Oner Zeynel - Me Mira (Original Mix) [Ozlem Records].mp3
+
+INODE 11987344 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/DJ Tchok - Nobody (Original Mix) [Artefact].mp3
+
+INODE 11987345 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Fillimonov - Shmn  [PULS].mp3
+
+INODE 11987346 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Oner Zeynel - Olas del Oceano (Original Mix) [Ozlem Records].mp3
+
+INODE 11987347 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Club Session - Don't Move (Jon Cutlers Distant Vocal Mix) [Chez].mp3
+
+INODE 11987348 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Simoo - Aminata (Original Mix) [Katun].mp3
+
+INODE 11987349 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/S-Man, Harry Romero, Melisa Whiskey - Searching (Dub) [Strictly Rhythm Records].mp3
+
+INODE 11987350 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Bushwacka! - True For You  [Nu Groove Records].mp3
+
+INODE 11987351 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Anthony Louis, Beauvoir K - Mistika (Original Mix) [Sunflowermusic Records].mp3
+
+INODE 11987352 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Suagar - Kabala (Original Mix) [WE'RE HERE].mp3
+
+INODE 11987353 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/LevyM - Bluebird (Extended Mix) [Nervous Records].mp3
+
+INODE 11987354 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/DJ Chus - That Feeling (Sagan Extended Remix) [Stereo Productions].mp3
+
+INODE 11988603 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Chill_Out/Greg Matthew - Eidolon (Original Mix) [Dreaming Awake].mp3
+
+INODE 12117902 (1 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/audio/2026-09-10 14-18-20.mp3
+
+INODE 12117906 (1 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/audio/2026-09-10 14-20-14.mp3
+
+INODE 12118283 (1 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/processing/2026-09-10 14-18-20_hq.mp3
+
+INODE 12118284 (1 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/processing/2026-09-10 14-20-14_hq.mp3
+
+INODE 12124454 (1 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/audio/2026-09-07 14-50-28.mp3
+
+INODE 12124956 (1 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/processing/2026-09-07 14-50-28_clean.mp3
+
+INODE 12211361 (1 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/audio/2026-09-12 14-25-18.mp3
+
+INODE 12219540 (1 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/processing/2026-09-12 14-25-18_hq.mp3
+
+INODE 12345273 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_hq Project/Samples/Imported/parisa_mix_hq.mp3
+
+INODE 12710309 (2 members):
+    /Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/mix/alexander_zwo_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/mix/alexander_zwo_mix.mp3
+
+INODE 12710310 (1 members):
+    /Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/mix/alexander_zwo_mix_epk.mp3
+
+INODE 12710314 (2 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/mix/bernie_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/mix/bernie_mix.mp3
+
+INODE 12710315 (1 members):
+    /Users/bernie/Movies/Radio-ish/Bernie/epk/mix/bernie_mix_epk.mp3
+
+INODE 12710316 (2 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/mix/dikier_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/mix/dikier_mix.mp3
+
+INODE 12710320 (1 members):
+    /Users/bernie/Movies/Radio-ish/Dikier/epk/mix/dikier_mix_epk.mp3
+
+INODE 12710324 (2 members):
+    /Users/bernie/Movies/Radio-ish/El Djemba/epk/mix/el_djemba_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/El Djemba/epk/mix/el_djemba_mix.mp3
+
+INODE 12710326 (1 members):
+    /Users/bernie/Movies/Radio-ish/El Djemba/epk/mix/el_djemba_mix_epk.mp3
+
+INODE 12710330 (2 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix.mp3
+
+INODE 12710331 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_epk.mp3
+
+INODE 12710333 (2 members):
+    /Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix.mp3
+
+INODE 12710334 (1 members):
+    /Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_epk.mp3
+
+INODE 12710336 (2 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix.mp3
+
+INODE 12710337 (1 members):
+    /Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_epk.mp3
+
+INODE 12710341 (3 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix_clean.mp3
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix.mp3
+
+INODE 12710347 (1 members):
+    /Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix_epk.mp3
+
+INODE 12741454 (1 members):
+    /Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_remaster.mp3
+
+INODE 12741455 (1 members):
+    /Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_remaster.mp3
+
+INODE 12741604 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Dikier/dikier_30s.mp3
+
+INODE 12741610 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/El Djemba/el djemba_30s.mp3
+
+INODE 12741618 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Alexander Zwo/alexander zwo_30s.mp3
+
+INODE 12741619 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Habib/habib_30s.mp3
+
+INODE 12741641 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/SDKZ/sdkz_30s.mp3
+
+INODE 12741650 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Parisa/parisa_30s.mp3
+
+INODE 12807781 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Bernie/bernie_30s.mp3
+
+INODE 12809296 (1 members):
+    /Users/bernie/Movies/Radio-ish/Mundz/epk/mix/mundz_mix_hq.mp3
+
+INODE 12810137 (1 members):
+    /Users/bernie/Movies/Radio-ish/EPK_Project/Mundz/mundz_30s.mp3
+
+INODE 12847847 (1 members):
+    /Users/bernie/Movies/Radio-ish/Mundz/epk/mix/mundz_mix_epk.mp3
+
+INODE 13001524 (4 members):
+    /Users/bernie/Movies/Radio-ish/DJ Unknown/epk/mix/dj_unknown_mix_hq.mp3
+    /Users/bernie/Movies/Radio-ish/DJ Unknown/epk/mix/dj_unknown_mix.mp3
+    /Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/DJ_Unknown_Release/dj_unknown_mix.mp3
+    /Users/bernie/Movies/Radio-ish/Social_Media/Mixcloud/dj_unknown_mix.mp3
+
+INODE 13002015 (1 members):
+    /Users/bernie/Movies/Radio-ish/DJ Unknown/epk/mix/dj_unknown_mix_epk.mp3
+
+INODE 13009981 (2 members):
+    /Users/bernie/Movies/Radio-ish/DJ Unknown/epk/promo/dj_unknown_30s.mp3
+    /Users/bernie/Movies/Radio-ish/EPK_Project/DJ Unknown/dj_unknown_30s.mp3
+
+INODE 13011550 (1 members):
+    /Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/dj_unknown_2026-09-19_master.mp3

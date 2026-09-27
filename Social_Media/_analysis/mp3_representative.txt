@@ -1,0 +1,156 @@
+11243337	/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX060794.mp3
+11243360	/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX050794.mp3
+11243371	/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX040794.mp3
+11243399	/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX030794.mp3
+11243435	/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/GX020794.mp3
+11952544	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 13-23-56.mp3
+11952550	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 13-29-53.mp3
+11952551	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-25-11.mp3
+11952552	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-27-26.mp3
+11952553	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-28-46.mp3
+11952558	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 14-58-38.mp3
+11952559	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 15-26-03.mp3
+11952595	/Users/bernie/Movies/Radio-ish/Habib/epk/audio/2026-08-31 16-20-01.mp3
+11952632	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 11-44-48.mp3
+11952633	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 13-50-15.mp3
+11952634	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-12-12.mp3
+11952637	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-17-17.mp3
+11952638	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 14-48-45.mp3
+11952722	/Users/bernie/Movies/Radio-ish/SDKZ/epk/audio/2026-09-03 16-10-55.mp3
+11952765	/Users/bernie/Movies/Radio-ish/Maya/epk/audio/2026-09-05 15-01-00.mp3
+11963962	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/14-48-45_cleaned.mp3
+11966915	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48.mp3_cleaned.mp3
+11966916	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15.mp3_cleaned.mp3
+11966917	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12.mp3_cleaned.mp3
+11966922	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17.mp3_cleaned.mp3
+11966923	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45.mp3_cleaned.mp3
+11967083	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48_cleaned.mp3
+11967100	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15_cleaned.mp3
+11967103	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12_cleaned.mp3
+11967104	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17_cleaned.mp3
+11967177	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45_cleaned.mp3
+11967178	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 16-10-55_cleaned.mp3
+11967765	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 11-44-48.mp3_hq.mp3
+11967766	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 13-50-15.mp3_hq.mp3
+11967767	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-12-12.mp3_hq.mp3
+11967772	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-17-17.mp3_hq.mp3
+11967773	/Users/bernie/Movies/Radio-ish/SDKZ/epk/processing/2026-09-03 14-48-45.mp3_hq.mp3
+11969097	/Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 13-23-56_hq.mp3
+11969099	/Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 13-29-53_hq.mp3
+11969104	/Users/bernie/Movies/Radio-ish/Habib/epk/processing/2026-08-31 14-25-11_hq.mp3
+11979940	/Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX020794_hq.mp3
+11979955	/Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX030794_hq.mp3
+11979985	/Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX040794_hq.mp3
+11979998	/Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX050794_hq.mp3
+11980003	/Users/bernie/Movies/Radio-ish/Parisa/epk/processing/GX060794_hq.mp3
+11981956	/Users/bernie/Movies/Radio-ish/EPK_Project/maya_30s.mp3
+11981971	/Users/bernie/Movies/Radio-ish/EPK_Project/Parisa/parisa_45s.mp3
+11982171	/Users/bernie/Movies/Radio-ish/EPK_Project/lab_mix_sequential.mp3
+11984456	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/habib_aug31_1323.mp3
+11984457	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/habib_aug31_1427.mp3
+11984458	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/sdkz_sep3_1144.mp3
+11984459	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/sdkz_sep3_1417.mp3
+11984460	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/maya_sep05.mp3
+11984461	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/GX020794.mp3
+11984462	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/GX030794.mp3
+11984600	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 13-23-56.mp3
+11984601	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 13-29-53.mp3
+11984602	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-25-11.mp3
+11984603	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-27-26.mp3
+11984604	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-28-46.mp3
+11984605	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 14-58-38.mp3
+11984606	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 15-26-03.mp3
+11984607	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Habib_Aug31/2026-08-31 16-20-01.mp3
+11984608	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 11-44-48.mp3
+11984609	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 13-50-15.mp3
+11984610	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-12-12.mp3
+11984611	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-17-17.mp3
+11984612	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 14-48-45.mp3
+11984613	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/SDKZ_Sep3/2026-09-03 16-10-55.mp3
+11984614	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX020794.mp3
+11984616	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX030794.mp3
+11984617	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX040794.mp3
+11984619	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX050794.mp3
+11984620	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Parisa_Originals/GX060794.mp3
+11984621	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/habib_mix.mp3
+11984622	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/sdkz_mix.mp3
+11985117	/Users/bernie/Movies/Radio-ish/Social_Media/Bandcamp/Maya_Sep5/2026-09-05 15-01-00.mp3
+11985258	/Users/bernie/Movies/Radio-ish/Social_Media/Mixcloud/habib_mix.mp3
+11985260	/Users/bernie/Movies/Radio-ish/Social_Media/Mixcloud/sdkz_mix.mp3
+11987287	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Blanko - Harmonic Density (Original Mix) [Brickbeat Syndicate].mp3
+11987288	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Kaltraum - Harmonic Blur (Original Mix) [Club Flora Music].mp3
+11987289	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/John Gregory - Natural (Original Mix) [Deep Clicks].mp3
+11987290	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/DJ LINCS - 118bpm (Original Mix) [Deep Clicks].mp3
+11987291	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_House/Jankolo - Come With Me (Original Mix) [GNTLMN].mp3
+11987292	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Antoine Pete - Day To Day (Original Mix) [Cross Land Music].mp3
+11987293	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/DJ Romain - Move It Up (Original Mix) [Rhythm Movement Music].mp3
+11987294	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Li.La, Deephope - All You Need (Vocal Mix) [i! Records].mp3
+11987295	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Nestro DaProducer, Nuf DeE - We Together (Original Mix) [Lilac Jeans Records].mp3
+11987296	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Classics/Danism, Toshi, Train (UK) - More (Rocco Rodamaal Extended Deep Mix) [SoSure Music]-2.mp3
+11987297	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Floyo, Chris Adanté, Amaka (UK) - In My Soul (Extended Mix) [Sunset Harmony].mp3
+11987298	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Taleon - Miraluna (Original Mix) [Undercool Productions].mp3
+11987299	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Cairo CPT, Mathousand16, Nomakrestu Xakathugaga - Gibixhegu (Original Mix) [Studio44 Cape Town].mp3
+11987300	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Alper Yigit, Special K (SY) - Tambura (Original Mix) [Yulunga Music].mp3
+11987301	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Compilations/Easttown - Start Again (Original Mix) [Cecille]-2.mp3
+11987302	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/DJ Chus, Rob More - Disco Verbena (Dub Mix) [Stereo Productions].mp3
+11987303	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Tony Romera - La Police (Extended Mix) [Edible].mp3
+11987304	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Jaden Pace - Magnet (Original Mix) [Mood Child].mp3
+11987305	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Oliver Gil, Claudia León - Loco Morocco (DJ CHUS Remix) [REDOLENT].mp3
+11987306	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Tech_House/Patrick M - Le Pop (Extended Mix) [Stereo Productions].mp3
+11987307	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Ivan Romero - Aura (DJ CHUS Remix) [REDOLENT].mp3
+11987308	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Âme, Busiswa - Pha Na Pha (Original Mix) [Innervisions].mp3
+11987342	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Mauvais Parisien. (Feat Dufonk) - J'ai mon Age  [Soulmetric Records].mp3
+11987343	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Oner Zeynel - Me Mira (Original Mix) [Ozlem Records].mp3
+11987344	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/DJ Tchok - Nobody (Original Mix) [Artefact].mp3
+11987345	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Fillimonov - Shmn  [PULS].mp3
+11987346	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Deep_Tech/Oner Zeynel - Olas del Oceano (Original Mix) [Ozlem Records].mp3
+11987347	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Club Session - Don't Move (Jon Cutlers Distant Vocal Mix) [Chez].mp3
+11987348	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Simoo - Aminata (Original Mix) [Katun].mp3
+11987349	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/S-Man, Harry Romero, Melisa Whiskey - Searching (Dub) [Strictly Rhythm Records].mp3
+11987350	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Bushwacka! - True For You  [Nu Groove Records].mp3
+11987351	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Organic_House/Anthony Louis, Beauvoir K - Mistika (Original Mix) [Sunflowermusic Records].mp3
+11987352	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/Suagar - Kabala (Original Mix) [WE'RE HERE].mp3
+11987353	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/LevyM - Bluebird (Extended Mix) [Nervous Records].mp3
+11987354	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Afro_House/DJ Chus - That Feeling (Sagan Extended Remix) [Stereo Productions].mp3
+11988603	/Users/bernie/Movies/Radio-ish/Social_Media/Tracksource/Chill_Out/Greg Matthew - Eidolon (Original Mix) [Dreaming Awake].mp3
+12117902	/Users/bernie/Movies/Radio-ish/Dikier/epk/audio/2026-09-10 14-18-20.mp3
+12117906	/Users/bernie/Movies/Radio-ish/Dikier/epk/audio/2026-09-10 14-20-14.mp3
+12118283	/Users/bernie/Movies/Radio-ish/Dikier/epk/processing/2026-09-10 14-18-20_hq.mp3
+12118284	/Users/bernie/Movies/Radio-ish/Dikier/epk/processing/2026-09-10 14-20-14_hq.mp3
+12124454	/Users/bernie/Movies/Radio-ish/Bernie/epk/audio/2026-09-07 14-50-28.mp3
+12124956	/Users/bernie/Movies/Radio-ish/Bernie/epk/processing/2026-09-07 14-50-28_clean.mp3
+12211361	/Users/bernie/Movies/Radio-ish/Bernie/epk/audio/2026-09-12 14-25-18.mp3
+12219540	/Users/bernie/Movies/Radio-ish/Bernie/epk/processing/2026-09-12 14-25-18_hq.mp3
+12345273	/Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_hq Project/Samples/Imported/parisa_mix_hq.mp3
+12710309	/Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/mix/alexander_zwo_mix_hq.mp3
+12710310	/Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/mix/alexander_zwo_mix_epk.mp3
+12710314	/Users/bernie/Movies/Radio-ish/Bernie/epk/mix/bernie_mix_hq.mp3
+12710315	/Users/bernie/Movies/Radio-ish/Bernie/epk/mix/bernie_mix_epk.mp3
+12710316	/Users/bernie/Movies/Radio-ish/Dikier/epk/mix/dikier_mix_hq.mp3
+12710320	/Users/bernie/Movies/Radio-ish/Dikier/epk/mix/dikier_mix_epk.mp3
+12710324	/Users/bernie/Movies/Radio-ish/El Djemba/epk/mix/el_djemba_mix_hq.mp3
+12710326	/Users/bernie/Movies/Radio-ish/El Djemba/epk/mix/el_djemba_mix_epk.mp3
+12710330	/Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_hq.mp3
+12710331	/Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_epk.mp3
+12710333	/Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_hq.mp3
+12710334	/Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_epk.mp3
+12710336	/Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_hq.mp3
+12710337	/Users/bernie/Movies/Radio-ish/Parisa/epk/mix/parisa_mix_epk.mp3
+12710341	/Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix_clean.mp3
+12710347	/Users/bernie/Movies/Radio-ish/SDKZ/epk/mix/sdkz_mix_epk.mp3
+12741454	/Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_remaster.mp3
+12741455	/Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_remaster.mp3
+12741604	/Users/bernie/Movies/Radio-ish/EPK_Project/Dikier/dikier_30s.mp3
+12741610	/Users/bernie/Movies/Radio-ish/EPK_Project/El Djemba/el djemba_30s.mp3
+12741618	/Users/bernie/Movies/Radio-ish/EPK_Project/Alexander Zwo/alexander zwo_30s.mp3
+12741619	/Users/bernie/Movies/Radio-ish/EPK_Project/Habib/habib_30s.mp3
+12741641	/Users/bernie/Movies/Radio-ish/EPK_Project/SDKZ/sdkz_30s.mp3
+12741650	/Users/bernie/Movies/Radio-ish/EPK_Project/Parisa/parisa_30s.mp3
+12807781	/Users/bernie/Movies/Radio-ish/EPK_Project/Bernie/bernie_30s.mp3
+12809296	/Users/bernie/Movies/Radio-ish/Mundz/epk/mix/mundz_mix_hq.mp3
+12810137	/Users/bernie/Movies/Radio-ish/EPK_Project/Mundz/mundz_30s.mp3
+12847847	/Users/bernie/Movies/Radio-ish/Mundz/epk/mix/mundz_mix_epk.mp3
+13001524	/Users/bernie/Movies/Radio-ish/DJ Unknown/epk/mix/dj_unknown_mix_hq.mp3
+13002015	/Users/bernie/Movies/Radio-ish/DJ Unknown/epk/mix/dj_unknown_mix_epk.mp3
+13009981	/Users/bernie/Movies/Radio-ish/DJ Unknown/epk/promo/dj_unknown_30s.mp3
+13011550	/Users/bernie/Movies/Radio-ish/Social_Media/SoundCloud/dj_unknown_2026-09-19_master.mp3
