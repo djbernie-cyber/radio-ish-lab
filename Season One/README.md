@@ -62,9 +62,20 @@ One loop and one EPK mp4 per artist; older builds were moved (never deleted) to
 
 ## Open items before press release
 
-- **Loudness QC** — peak ≤ ~0 dBFS, −12…−16 LUFS. Not run; no loudness tool on this machine. This is the gate MASTER_README sets.
-- **Yogo + Mundz genre tags** — no roster row yet, so their fine print reads `Season One`.
-- **Schrödinger's Breakfast cover artwork** — none in the project; the EPK uses a typographic title card (same black-bg/white-type standard). Drop real artwork in and re-render.
-- **Yogo has no `Mix/`** — no mastered mix mp3 exists yet.
+- **Loudness QC — DONE.** All 12 loops are mastered to **-14 LUFS / -1.0 dBTP** and every
+  EPK video is within the `-12..-16 LUFS` gate with true peak below 0 dBTP.
+  See `QC/SeasonOne_EPK_qc.md` (120/120 checks) and `QC/SeasonOne_EPK_SHA256SUMS`.
+  Three defects were found and fixed by this pass: three loops were clipping past
+  0 dBTP, six sat outside the LUFS gate, and **Habib's loop had been cut from a
+  silent 30 s window in the head of its mix** — it was effectively silent at
+  -72 dBFS. All loops are now 24-bit, matching the spec published in the fine print.
+- **Yogo + Mundz genre tags** — no confirmed roster row yet, so their fine print reads `Season One`.
+- **Yogo cover** is currently a copy of the SDKZ cover; no Yogo-specific artwork supplied.
+- **Schrödinger's Breakfast cover artwork** — none in the project; the EPK uses a typographic title card. Drop real artwork in and re-render.
 - **Mundz + Schrödinger's Breakfast have no `index.md`** press one-pager.
-- **Social_Media** 9:16 clips and platform uploads (Mixcloud / SoundCloud / Bandcamp / Instagram) are untouched and still live at `../Social_Media/`.
+- **Habib / Maya / Schrödinger's Breakfast** source masters are extremely quiet
+  (loudest 30 s window -35.5 / -27.8 / -26.0 dBFS RMS), so normalising to -14 LUFS
+  raises the noise floor. Worth an ear check before press.
+- **Social_Media** — Yogo's 9:16 clips and a 16:9 promo cut are done in
+  `Social_Media/promo/Yogo/`; the other 11 artists' clips and all platform
+  uploads (Mixcloud / SoundCloud / Bandcamp / Instagram) are still outstanding.

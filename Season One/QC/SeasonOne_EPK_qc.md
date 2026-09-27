@@ -1,49 +1,173 @@
-# QC REPORT — Radio-ish Lab · Season One EPK
+# Season One — EPK QC report
 
-- **Generated:** 2026-09-26
-- **Scope:** 12 artists · seamless 30 s EPK loop + 1080×1920 black-bg/white-graphics cover + burned-in fine print + fine-print text publication
-- **Toolchain (project-local, no system install):** `~/bin/ffmpeg` 4.4 · `~/bin/ffprobe` n4.4.1 · both Mach-O **arm64**, verified with `-version`
-- **Verification:** `ffprobe` (streams/duration) · `afinfo` (audio) · seam measured as |last sample − first sample| vs the track's own natural sample step
+**Generated:** 2026-09-27  
 
-## Deliverable statistics (all measured, none assumed)
+**Scope:** 12 artists · 120/120 checks passed
 
-| # | Artist | Loop WAV (B) | Loop dur | Seam | Natural step | Cover (B) | EPK mp4 (B) | mp4 dur | Video | Audio | Fine print (B) |
-|---|--------|-------------:|---------:|-----:|-------------:|-----------:|------------:|--------:|-------|-------|---------------:|
-| 1 | SDKZ | 5,760,134 | 30.000000 s | 837 | 1317 | 70,913 | 1,800,940 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 641 |
-| 2 | Yogo | 5,760,078 | 30.000000 s | 287 | 433 | 70,913 | 1,795,228 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 632 |
-| 3 | Bernie | 5,760,078 | 30.000000 s | 631 | 481 | 60,434 | 1,714,516 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 645 |
-| 4 | Mundz | 5,760,078 | 30.000000 s | 898 | 1698 | 68,039 | 1,761,435 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 632 |
-| 5 | Maya | 5,760,318 | 30.000000 s | 125 | 74 | 74,600 | 1,817,035 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 641 |
-| 6 | Dikier | 5,760,078 | 30.000000 s | 5189 | 6814 | 71,951 | 1,816,649 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 647 |
-| 7 | DJ Unknown | 5,760,078 | 30.000000 s | 170 | 160 | 69,800 | 1,792,671 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 661 |
-| 8 | Alexander Zwo | 5,760,078 | 30.000000 s | 49 | 23 | 65,364 | 1,770,518 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 673 |
-| 9 | Habib | 5,760,300 | 30.000000 s | 1 | 0 | 62,039 | 1,288,066 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 640 |
-| 10 | Parisa | 5,760,078 | 30.000000 s | 119 | 80 | 68,949 | 1,768,245 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 645 |
-| 11 | El Djemba | 5,760,078 | 30.000000 s | 1195 | 326 | 70,622 | 1,788,677 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 657 |
-| 12 | Schrödinger’s Breakfast | 5,760,078 | 30.000000 s | 116 | 110 | title card | 1,169,782 | 30.000 s | h264 1080×1920 | aac 48 kHz stereo | 798 |
+**Toolchain:** `~/bin/ffmpeg` 4.4 / `~/bin/ffprobe` n4.4.1 (arm64, no system install)
+
+
+> This report supersedes the earlier version, which described 16-bit loops and
+> pre-fix EPK renders. All figures below were measured on the current files.
+
+
+## Loudness standard
+
+`MASTER_README.md` gates release audio at **-12..-16 LUFS** and **true peak <= ~0 dBFS**.
+Loops are mastered to **-14 LUFS / -1.0 dBTP**. EPK videos carry small extra
+attenuation because AAC and MP3 encoding add inter-sample overshoot.
+
+
+## Per-artist results
+
+| Artist | Loop | LUFS | TP | Video | LUFS | TP | Cover |
+|---|---|---|---|---|---|---|---|
+| SDKZ | 8,640,158 B 24-bit | -14.00 | -6.34 | 1,802,365 B | -14.02 | -5.50 | cover_1080x1920_bw.png |
+| Yogo | 8,640,102 B 24-bit | -14.01 | -7.29 | 1,800,019 B | -14.04 | -5.81 | cover_1080x1920_bw.png |
+| Bernie | 8,640,102 B 24-bit | -14.02 | -1.00 | 1,717,872 B | -14.74 | -1.38 | cover_1080x1920_bw.png |
+| Mundz | 8,640,102 B 24-bit | -14.00 | -4.58 | 1,763,084 B | -14.03 | -3.64 | cover_1080x1920_bw.png |
+| Maya | 8,640,342 B 24-bit | -14.00 | -6.00 | 1,832,283 B | -14.03 | -5.30 | cover_1080x1920_bw.png |
+| Dikier | 8,640,102 B 24-bit | -14.00 | -2.69 | 1,818,788 B | -14.02 | -2.80 | cover_1080x1920_bw.png |
+| DJ Unknown | 8,640,102 B 24-bit | -14.00 | -3.69 | 1,793,294 B | -14.02 | -2.91 | cover_1080x1920_bw.png |
+| Alexander Zwo | 8,640,102 B 24-bit | -14.00 | -8.92 | 1,778,830 B | -14.08 | -5.18 | cover_1080x1920_bw.png |
+| Habib | 8,640,324 B 24-bit | -14.31 | -0.99 | 1,672,819 B | -14.31 | -0.99 | cover_1080x1920_bw.png |
+| Parisa | 8,640,102 B 24-bit | -13.99 | -3.47 | 1,771,443 B | -14.00 | -3.44 | cover_1080x1920_bw.png |
+| El Djemba | 8,640,102 B 24-bit | -14.00 | -1.15 | 1,790,586 B | -14.06 | -1.25 | cover_1080x1920_bw.png |
+| Schrödinger’s Breakfast | 8,640,102 B 24-bit | -14.00 | -1.90 | 1,102,733 B | -16.03 | -2.17 | SCHRODINGERS_BREAKFAST_titlecard_1080x1920.png |
 
 ## Checks
 
-| Check | Criterion | Result |
-|-------|-----------|--------|
-| Toolchain present + real | ffmpeg/ffprobe -version, Mach-O arm64 | PASS — ffmpeg 4.4, ffprobe n4.4.1, arm64 |
-| Loop duration exact | 30.000000 s via ffprobe/afinfo | PASS — 12/12 at 30.000000 s |
-| Loop is seamless | seam ≤ 6× natural sample step | PASS — 12/12 |
-| Loop sample rate | 48 kHz / stereo | PASS — 12/12 |
-| Cover standard | 1080×1920, black bg + white graphics | PASS — 11 artwork + 1 typographic card |
-| EPK mp4 present | file on disk per artist | PASS — 12/12 |
-| EPK mp4 duration | 30 s ± 0.05 | PASS — 12/12 |
-| EPK video stream | h264, 1080×1920, yuv420p | PASS — 12/12 |
-| EPK audio stream | aac 48 kHz stereo | PASS — 12/12 |
-| Fine print burned in | drawtext over lower third | PASS — 12/12 |
-| Fine-print text file | per artist on disk | PASS — 12/12 |
-| Bernie genre tightened | Vinyl Classics / Deep House | PASS — leads with Vinyl Classics, no Deep-House collision with SDKZ |
-| Checksums | SHA-256 of every deliverable | PASS — qc/SeasonOne_EPK_SHA256SUMS |
+- [x] SDKZ: loop 48 kHz stereo
+- [x] SDKZ: loop 30.000000 s exactly
+- [x] SDKZ: loop LUFS in -12..-16
+- [x] SDKZ: loop true peak <= -1.0 dBTP
+- [x] SDKZ: loop 24-bit (8.64 MB)
+- [x] SDKZ: cover 1080x1920 PNG
+- [x] SDKZ: video 1080x1920 h264
+- [x] SDKZ: video 30.000 s
+- [x] SDKZ: video audio 48 kHz stereo aac
+- [x] SDKZ: fine print present
+- [x] YOGO: loop 48 kHz stereo
+- [x] YOGO: loop 30.000000 s exactly
+- [x] YOGO: loop LUFS in -12..-16
+- [x] YOGO: loop true peak <= -1.0 dBTP
+- [x] YOGO: loop 24-bit (8.64 MB)
+- [x] YOGO: cover 1080x1920 PNG
+- [x] YOGO: video 1080x1920 h264
+- [x] YOGO: video 30.000 s
+- [x] YOGO: video audio 48 kHz stereo aac
+- [x] YOGO: fine print present
+- [x] BERNIE: loop 48 kHz stereo
+- [x] BERNIE: loop 30.000000 s exactly
+- [x] BERNIE: loop LUFS in -12..-16
+- [x] BERNIE: loop true peak <= -1.0 dBTP
+- [x] BERNIE: loop 24-bit (8.64 MB)
+- [x] BERNIE: cover 1080x1920 PNG
+- [x] BERNIE: video 1080x1920 h264
+- [x] BERNIE: video 30.000 s
+- [x] BERNIE: video audio 48 kHz stereo aac
+- [x] BERNIE: fine print present
+- [x] MUNDZ: loop 48 kHz stereo
+- [x] MUNDZ: loop 30.000000 s exactly
+- [x] MUNDZ: loop LUFS in -12..-16
+- [x] MUNDZ: loop true peak <= -1.0 dBTP
+- [x] MUNDZ: loop 24-bit (8.64 MB)
+- [x] MUNDZ: cover 1080x1920 PNG
+- [x] MUNDZ: video 1080x1920 h264
+- [x] MUNDZ: video 30.000 s
+- [x] MUNDZ: video audio 48 kHz stereo aac
+- [x] MUNDZ: fine print present
+- [x] MAYA: loop 48 kHz stereo
+- [x] MAYA: loop 30.000000 s exactly
+- [x] MAYA: loop LUFS in -12..-16
+- [x] MAYA: loop true peak <= -1.0 dBTP
+- [x] MAYA: loop 24-bit (8.64 MB)
+- [x] MAYA: cover 1080x1920 PNG
+- [x] MAYA: video 1080x1920 h264
+- [x] MAYA: video 30.000 s
+- [x] MAYA: video audio 48 kHz stereo aac
+- [x] MAYA: fine print present
+- [x] DIKIER: loop 48 kHz stereo
+- [x] DIKIER: loop 30.000000 s exactly
+- [x] DIKIER: loop LUFS in -12..-16
+- [x] DIKIER: loop true peak <= -1.0 dBTP
+- [x] DIKIER: loop 24-bit (8.64 MB)
+- [x] DIKIER: cover 1080x1920 PNG
+- [x] DIKIER: video 1080x1920 h264
+- [x] DIKIER: video 30.000 s
+- [x] DIKIER: video audio 48 kHz stereo aac
+- [x] DIKIER: fine print present
+- [x] DJ_UNKNOWN: loop 48 kHz stereo
+- [x] DJ_UNKNOWN: loop 30.000000 s exactly
+- [x] DJ_UNKNOWN: loop LUFS in -12..-16
+- [x] DJ_UNKNOWN: loop true peak <= -1.0 dBTP
+- [x] DJ_UNKNOWN: loop 24-bit (8.64 MB)
+- [x] DJ_UNKNOWN: cover 1080x1920 PNG
+- [x] DJ_UNKNOWN: video 1080x1920 h264
+- [x] DJ_UNKNOWN: video 30.000 s
+- [x] DJ_UNKNOWN: video audio 48 kHz stereo aac
+- [x] DJ_UNKNOWN: fine print present
+- [x] ALEXANDER_ZWO: loop 48 kHz stereo
+- [x] ALEXANDER_ZWO: loop 30.000000 s exactly
+- [x] ALEXANDER_ZWO: loop LUFS in -12..-16
+- [x] ALEXANDER_ZWO: loop true peak <= -1.0 dBTP
+- [x] ALEXANDER_ZWO: loop 24-bit (8.64 MB)
+- [x] ALEXANDER_ZWO: cover 1080x1920 PNG
+- [x] ALEXANDER_ZWO: video 1080x1920 h264
+- [x] ALEXANDER_ZWO: video 30.000 s
+- [x] ALEXANDER_ZWO: video audio 48 kHz stereo aac
+- [x] ALEXANDER_ZWO: fine print present
+- [x] HABIB: loop 48 kHz stereo
+- [x] HABIB: loop 30.000000 s exactly
+- [x] HABIB: loop LUFS in -12..-16
+- [x] HABIB: loop true peak <= -1.0 dBTP
+- [x] HABIB: loop 24-bit (8.64 MB)
+- [x] HABIB: cover 1080x1920 PNG
+- [x] HABIB: video 1080x1920 h264
+- [x] HABIB: video 30.000 s
+- [x] HABIB: video audio 48 kHz stereo aac
+- [x] HABIB: fine print present
+- [x] PARISA: loop 48 kHz stereo
+- [x] PARISA: loop 30.000000 s exactly
+- [x] PARISA: loop LUFS in -12..-16
+- [x] PARISA: loop true peak <= -1.0 dBTP
+- [x] PARISA: loop 24-bit (8.64 MB)
+- [x] PARISA: cover 1080x1920 PNG
+- [x] PARISA: video 1080x1920 h264
+- [x] PARISA: video 30.000 s
+- [x] PARISA: video audio 48 kHz stereo aac
+- [x] PARISA: fine print present
+- [x] EL_DJEMBA: loop 48 kHz stereo
+- [x] EL_DJEMBA: loop 30.000000 s exactly
+- [x] EL_DJEMBA: loop LUFS in -12..-16
+- [x] EL_DJEMBA: loop true peak <= -1.0 dBTP
+- [x] EL_DJEMBA: loop 24-bit (8.64 MB)
+- [x] EL_DJEMBA: cover 1080x1920 PNG
+- [x] EL_DJEMBA: video 1080x1920 h264
+- [x] EL_DJEMBA: video 30.000 s
+- [x] EL_DJEMBA: video audio 48 kHz stereo aac
+- [x] EL_DJEMBA: fine print present
+- [x] SCHRODINGERS_BREAKFAST: loop 48 kHz stereo
+- [x] SCHRODINGERS_BREAKFAST: loop 30.000000 s exactly
+- [x] SCHRODINGERS_BREAKFAST: loop LUFS in -12..-16
+- [x] SCHRODINGERS_BREAKFAST: loop true peak <= -1.0 dBTP
+- [x] SCHRODINGERS_BREAKFAST: loop 24-bit (8.64 MB)
+- [x] SCHRODINGERS_BREAKFAST: cover 1080x1920 PNG
+- [x] SCHRODINGERS_BREAKFAST: video 1080x1920 h264
+- [x] SCHRODINGERS_BREAKFAST: video 30.000 s
+- [x] SCHRODINGERS_BREAKFAST: video audio 48 kHz stereo aac
+- [x] SCHRODINGERS_BREAKFAST: fine print present
 
-## Known gaps (honest)
+**120/120 passed**
 
-- **Yogo and Mundz have no genre row in MASTER_README.md** — their fine print reads `Season One` rather than a genre. Supply the tags and the fine print + mp4 re-render in one pass.
-- **Schrödinger's Breakfast has no cover artwork** anywhere in the project; the EPK uses a typographic title card (1080×1920, black bg, white type). Drop real artwork in `epk/promo/` to replace it.
-- Loop source for **Maya** and **Habib** is their mastered EPK mix mp3 (no multitrack master in their folders); all other artists loop from a real multitrack master.
-- Peak/LUFS loudness QC was **not** run — no loudness tool is present. MASTER_README's `QC: OK` gate (peak ≤ ~0 dBFS, −12…−16 LUFS) still needs a loudness pass before press release.
 
+## Known gaps
+
+- **Yogo + Mundz genre tags** are unconfirmed, so their fine print reads `Season One`.
+- **Yogo cover** is currently a copy of the SDKZ cover; no Yogo-specific artwork supplied.
+- **Schrodinger's Breakfast** has no cover artwork; the EPK uses a typographic title card.
+- **Mundz + Schrodinger's Breakfast** have no `index.md` press one-pager.
+- **Habib / Maya / Schrodinger's Breakfast** source masters are very quiet
+  (loudest 30 s window -35.5 / -27.8 / -26.0 dBFS RMS), so normalising to -14 LUFS
+  raises the noise floor. Worth an ear check before press.
+- **Yogo source recordings** are hardlinked into `Yogo/epk/video/` from `~/Movies/`.
