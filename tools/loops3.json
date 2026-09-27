@@ -1,0 +1,134 @@
+[
+ {
+  "artist": "SDKZ",
+  "tag": "SDKZ",
+  "src": "/Users/bernie/Movies/Radio-ish/SDKZ/SDKZ_B4_03.09.26.WAV",
+  "offset": 1920,
+  "pick_rms": -11.53,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-6.34",
+  "bytes": 8640158
+ },
+ {
+  "artist": "Yogo",
+  "tag": "YOGO",
+  "src": "/Users/bernie/Movies/Radio-ish/radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-24 154843].wav",
+  "offset": 6750,
+  "pick_rms": -6.85,
+  "dur": 30.0,
+  "lufs": "-14.01",
+  "tp": "-7.29",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Bernie",
+  "tag": "BERNIE",
+  "src": "/Users/bernie/Movies/Radio-ish/Bernie/epk/audio/2026-09-12 14-25-18.wav",
+  "offset": 750,
+  "pick_rms": -13.29,
+  "dur": 30.0,
+  "lufs": "-14.02",
+  "tp": "-1.00",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Mundz",
+  "tag": "MUNDZ",
+  "src": "/Users/bernie/Movies/Radio-ish/Mundz/epk/audio/mundz_session_152305.wav",
+  "offset": 4200,
+  "pick_rms": -18.27,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-4.58",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Dikier",
+  "tag": "DIKIER",
+  "src": "/Users/bernie/Movies/Radio-ish/Dikier/epk/audio/2026-09-10 14-20-14.wav",
+  "offset": 3540,
+  "pick_rms": -15.1,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-2.69",
+  "bytes": 8640102
+ },
+ {
+  "artist": "DJ Unknown",
+  "tag": "DJ_UNKNOWN",
+  "src": "/Users/bernie/Movies/Radio-ish/DJ Unknown/epk/processing/2026-09-19 16-07-31_raw.wav",
+  "offset": 3180,
+  "pick_rms": -10.73,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-3.69",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Alexander Zwo",
+  "tag": "ALEXANDER_ZWO",
+  "src": "/Users/bernie/Movies/Radio-ish/Alexander Zwo/epk/processing/2026-09-14 16-53-34_raw.wav",
+  "offset": 3750,
+  "pick_rms": -3.37,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-8.92",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Parisa",
+  "tag": "PARISA",
+  "src": "/Users/bernie/Movies/Radio-ish/Parisa/epk/audio/parisa_mix_wvideo.wav",
+  "offset": 510,
+  "pick_rms": -13.95,
+  "dur": 30.0,
+  "lufs": "-13.99",
+  "tp": "-3.47",
+  "bytes": 8640102
+ },
+ {
+  "artist": "El Djemba",
+  "tag": "EL_DJEMBA",
+  "src": "/Users/bernie/Movies/Radio-ish/El Djemba/epk/processing/2026-09-14 13-36-32_raw.wav",
+  "offset": 690,
+  "pick_rms": -12.8,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-1.15",
+  "bytes": 8640102
+ },
+ {
+  "artist": "Maya",
+  "tag": "MAYA",
+  "src": "/Users/bernie/Movies/Radio-ish/Maya/epk/mix/maya_mix_epk.mp3",
+  "offset": 3060,
+  "pick_rms": -27.84,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-6.00",
+  "bytes": 8640342
+ },
+ {
+  "artist": "Habib",
+  "tag": "HABIB",
+  "src": "/Users/bernie/Movies/Radio-ish/Habib/epk/mix/habib_mix_epk.mp3",
+  "offset": 90,
+  "pick_rms": -35.54,
+  "dur": 30.0,
+  "lufs": "-14.31",
+  "tp": "-0.99",
+  "bytes": 8640324
+ },
+ {
+  "artist": "Schrödinger’s Breakfast",
+  "tag": "SCHRODINGERS_BREAKFAST",
+  "src": "/Users/bernie/Movies/Radio-ish/Schrödinger’s Breakfast/epk/mix/4-Audio 0001 [2026-09-21 130546].wav",
+  "offset": 60,
+  "pick_rms": -26.03,
+  "dur": 30.0,
+  "lufs": "-14.00",
+  "tp": "-1.90",
+  "bytes": 8640102
+ }
+]

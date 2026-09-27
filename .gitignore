@@ -1,0 +1,75 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Radio-ish Lab — Season One
+# Media blobs are NOT in git. 139 files exceed git's 100 MB hard limit and the
+# project is ~97 GB; GitHub's practical ceiling is ~2 GB per repo. This repo
+# tracks the release METADATA: structure, press copy, QC evidence, checksums
+# and the reproducible build pipeline. Masters stay on local/backup storage.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# audio
+*.wav
+*.aiff
+*.aif
+*.aifc
+*.flac
+*.mp3
+*.m4a
+*.aac
+*.ogg
+*.opus
+
+# video
+*.mov
+*.mp4
+*.m4v
+*.mkv
+*.avi
+*.webm
+*.prproj
+
+# session/tooling noise
+.DS_Store
+._*
+Thumbs.db
+*.tmp
+*.log
+node_modules/
+
+# heavy working directories (masters, stems, raw footage, platform uploads)
+# NOTE: leading "/" is required. An unanchored "SDKZ/" would also match
+# Season One/Artists/SDKZ/ and hide the release tree from git.
+/Social_Media/*/Bandcamp/
+/Social_Media/*/Mixcloud/
+/Social_Media/*/SoundCloud/
+/Social_Media/*/Instagram/
+/Social_Media/*/Tracksource/
+/Social_Media/promo/*/*.mp4
+/Social_Media/promo/*/*.mov
+
+# per-artist working folders — the ~97 GB of source of truth.
+# Their press copy + QC is mirrored under Season One/Artists/<Artist>/.
+/SDKZ/
+/Yogo/
+/Bernie/
+/Mundz/
+/Maya/
+/Dikier/
+/DJ Unknown/
+/Alexander Zwo/
+/Habib/
+/Parisa/
+/El Djemba/
+/Schrödinger’s Breakfast/
+
+# shared session projects
+/radio-ish 2 Project/
+/radioish Project/
+/Advertising/
+/Archive/
+/_qc_tmprender/
+
+# .gitignore itself must not be re-ignored
+!.gitignore
+
+# NOTE: do NOT blanket-ignore EPK_Project/ or QC_Reports/ — those hold the
+# per-artist text/QC records that this repo exists to publish.
