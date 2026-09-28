@@ -86,3 +86,8 @@ node_modules/
 # superseded masters live here; keep out of git (never deleted)
 /Archive/
 /_qc_tmprender/
+
+# telegram session + credentials — never commit
+.radio-ish-tg/
+.venv-tg/
+*.session
