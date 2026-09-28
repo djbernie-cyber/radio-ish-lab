@@ -19,7 +19,15 @@
 | 9 | Alexander Zwo | Ableton-recorded DJ set | `alexander_zwo_mix(_hq/_epk).mp3` | LIVE |
 | 10 | DJ Unknown | Ableton-recorded DJ set | `dj_unknown_mix(_hq/_epk).mp3` | LIVE |
 | 11 | Mundz | Genre tag pending | `mundz_mix(_hq/_epk).mp3` | LIVE |
-| 12 | Yogo | Season One · new artist · genre tag pending | — | LIVE |
+| 12 | Yogo | Season One · new artist · genre tag pending | `yogo_mix(_hq/_epk).mp3` | LIVE |
+
+> **Mix house standard (2026-09-28):** all 12 full-length masters have been standardised to
+> one gain and one EQ, so the catalogue is genuinely consistent rather than nominally so.
+> Target **-14 LUFS** with true peak **below 0 dBTP**, identical chain for every artist:
+> high-pass 28 Hz, -1.5 dB @220 Hz, +1.0 dB @3 kHz, +1.5 dB @9 kHz (Pioneer XDJ-RX3);
+> DJ Unknown gets a gentler Denon variant. Each artist keeps its own trim.
+> Per-artist measured results: `qc/SeasonOne_Mix_qc.md` — **96/96 checks passed**.
+> Pre-standardisation masters are preserved under `Archive/2026-09-26_superseded/mixes/`.
 
 > **EPK media status (2026-09-26):** all 12 artists ship a verified EPK stack —
 > `epk/audio/<TAG>_B4_30s_loop.wav` (30.000000 s, 48 kHz, seamless),
@@ -77,6 +85,9 @@ Every artist **must** publish to `epk/mix/`:
 - `{artist}_mix_hq.mp3` — 48kHz / 320kbps mastered master
 - `{artist}_mix_epk.mp3` — 44.1kHz / 320kbps EPK master (CD / streamers)
 
+All three carry the same house gain and EQ. Measured loudness, true peak, trim and
+limiter ceiling for each artist are in `qc/SeasonOne_Mix_qc.md`.
+
 Tags: artist name · Radio-ish Lab · year · genre · LC/MASTER version note.
 
 ## Find It Fast
@@ -96,4 +107,4 @@ Tags: artist name · Radio-ish Lab · year · genre · LC/MASTER version note.
 5. Every deliverable tagged with ID3 artist/album/year/genre.
 
 ---
-*Generated 2026-09-14 · updated 2026-09-19 · 9 artists · 1 standard · Mixmag-grade QA.*
+*Generated 2026-09-14 · updated 2026-09-28 · 12 artists · 1 standard · Mixmag-grade QA.*

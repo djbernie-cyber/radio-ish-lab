@@ -1,6 +1,6 @@
 # Radio-ish Lab — Season One SHA-256 checksums
-# generated 2026-09-27 — re-run tools/ to regenerate after any re-render
-# 50 entries: 12 loops + 12 EPK videos + covers + fine print + toolchain binaries
+# generated 2026-09-28 — re-run tools/ to regenerate after any re-render
+# 62 entries: 12 loops + 12 EPK videos + covers + fine print + 12 press index pages + toolchain binaries
 # media is NOT in git; verify locally against the working tree
 77698e442f901f6db629b6c29729c09f51f96a6cab50f76d47330790d5162b9b  SDKZ/epk/audio/SDKZ_B4_30s_loop.wav
 5242dc6704fe13843937ecca2e3545bccc98238fe7dc63749b7779a500a50716  SDKZ/epk/video/SDKZ_B4_EPK_30s.mp4
@@ -52,3 +52,15 @@ be6d9132fdf2f16270864219524fb463e1872c733f96e112584f39264b614de0  Schrödinger�
 5000f96159581274139eaa4756346990be6e7eb64abf1e8b15ee906992c519e7  Schrödinger’s Breakfast/epk/text/FINE_PRINT_SCHRODINGERS_BREAKFAST_B4.md
 a2ad6f0fc42a3c8f5183ef1d53e906d6bb35478d14a6b67175c30ce6c17e9214  /Users/bernie/bin/ffmpeg
 c846d5db9d3b5bc33f987725e21f3ea14953931221c191575918e907ad6c18ff  /Users/bernie/bin/ffprobe
+a0e19ac4ad80c7ced52c68f943f174367ab76500e0e3d684a2b3878cdc36ed2f  Season One/Artists/Alexander Zwo/Press/index.md
+ae34eae18eb59aaf01c98bb4ad47ca1d8a567619ec6f89f36b11849d1d7daab0  Season One/Artists/Bernie/Press/index.md
+ffec5d35ae8686ab172da203c62b7869b3407da9f907dffb4f66054e2b01b972  Season One/Artists/DJ Unknown/Press/index.md
+b686c3640d58df95325bbf4551afce1986660398091eb8a1d327bfcb4394a381  Season One/Artists/Dikier/Press/index.md
+731052cd3fc5a2332b9e04e51534969a0fe7a3de2cbef301eb2b4b79aa51207a  Season One/Artists/El Djemba/Press/index.md
+e42314e64f77068622b1a46471179b2618fdda779f97816da7a8f917326b5eae  Season One/Artists/Habib/Press/index.md
+8a5e23c3d12ddd58d62418135644e6127be624bdaf16222ac52b9662ca0e1614  Season One/Artists/Maya/Press/index.md
+25a57dce32b6b79ebfe8de063f9fb373d4b39691c080472fb034043287783e1e  Season One/Artists/Mundz/Press/index.md
+8a8321f1ed356cece43542ac4454cd1ef9b709a2adfee7562bb7b1a08709edeb  Season One/Artists/Parisa/Press/index.md
+2e4f7aac21aaa765b15ad6a912b59d8b40cedfaf13eb553e59c56f069494f19f  Season One/Artists/SDKZ/Press/index.md
+3fe154d31d627038e3afd3e428192571c229a4d6aa325153db6eeef752f734fd  Season One/Artists/Schrödinger’s Breakfast/Press/index.md
+dc1e4776dd2a86460b4f66586b2db7225d1c4310f3614b4fbb54ba1ff95ce2ee  Season One/Artists/Yogo/Press/index.md

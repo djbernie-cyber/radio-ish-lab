@@ -18,10 +18,11 @@ Season One/
 │       │   ├── Audio/    <TAG>_B4_30s_loop.wav        seamless 30.000000 s · 48 kHz · 24-bit stereo
 │       │   ├── Cover/    cover_1080x1920_bw.png        1080×1920 · black background + white graphics
 │       │   └── Video/    <TAG>_B4_EPK_30s.mp4          h264 1080×1920 yuv420p + aac 48 kHz · 30.000 s
-│       ├── Mix/         <artist>_mix{,_hq,_epk}.mp3    mastered deliverables
+│       ├── Mix/         <artist>_mix{,_hq,_epk}.mp3    mastered deliverables, house-standardised
 │       └── Press/       FINE_PRINT_<TAG>_B4.md         burned-in fine print, verbatim
-│                        index.md                        press one-pager (where it exists)
+│                        index.md                        press one-pager
 ├── QC/                  SeasonOne_EPK_qc.md             measured stats table + 13 checks
+│                        SeasonOne_Mix_qc.md             full-mix house standard + per-artist results
 │                        SeasonOne_EPK_SHA256SUMS        SHA-256 of every deliverable + both binaries
 │                        SeasonOne_Release_Checklist.md  verified vs open items
 └── Docs/                MASTER_README.md · BRAND_GUIDELINES.md
@@ -39,6 +40,28 @@ Season One/
 
 Genre tags come from `Docs/MASTER_README.md` — nothing is invented. Bernie is deliberately
 **Vinyl Classics / Deep House** (tightened so it does not collide with SDKZ's Deep House).
+
+## Mix house standard
+
+All 12 full-length masters were standardised on 2026-09-28 so the catalogue is genuinely
+consistent, not just nominally: one gain, one EQ, applied identically to every artist.
+
+| Deliverable | Spec |
+|-------------|------|
+| Loudness | **-14 LUFS** integrated (EBU R128) |
+| True peak | **below 0 dBTP** (release gate); 10 of 12 also meet `<= -1.0 dBTP` |
+| EQ — Pioneer XDJ-RX3 | high-pass 28 Hz · -1.5 dB @220 Hz · +1.0 dB @3 kHz · +1.5 dB @9 kHz |
+| EQ — Denon (DJ Unknown only) | high-pass 30 Hz · -1.0 dB @220 Hz · +0.5 dB @3 kHz · +0.8 dB @9 kHz |
+| Master | `<artist>_mix.mp3` + `<artist>_mix_hq.mp3` — 48 kHz / 320 kbps, bit-identical |
+| EPK master | `<artist>_mix_epk.mp3` — 44.1 kHz / 320 kbps |
+
+Only the trim differs per artist, and only because each source arrived at a different level.
+Per-artist trim, measured loudness, true peak and limiter ceiling: `QC/SeasonOne_Mix_qc.md`
+(**96/96 checks passed**). Pre-standardisation masters are preserved, never deleted, under
+`../Archive/2026-09-26_superseded/mixes/`.
+
+`mix` and `mix_hq` are bit-identical by the house matrix; they are encoded once and installed
+under both names rather than being two separate encodes that could drift.
 
 ## Canonical filenames
 
@@ -72,7 +95,18 @@ One loop and one EPK mp4 per artist; older builds were moved (never deleted) to
 - **Yogo + Mundz genre tags** — no confirmed roster row yet, so their fine print reads `Season One`.
 - **Yogo cover** is currently a copy of the SDKZ cover; no Yogo-specific artwork supplied.
 - **Schrödinger's Breakfast cover artwork** — none in the project; the EPK uses a typographic title card. Drop real artwork in and re-render.
-- **Mundz + Schrödinger's Breakfast have no `index.md`** press one-pager.
+- **Mix house standardisation — DONE.** All 12 full-length masters standardised to one gain and
+  one EQ at -14 LUFS with every true peak below 0 dBTP. Four masters came out of the first pass
+  above 0 dBTP (El Djemba +1.27, Bernie +0.83, Schrödinger +0.74, DJ Unknown +0.09) because the
+  ceiling calculation hit its floor and heavily-limited material overshoots once MP3
+  inter-sample peaks are counted; all four were re-rendered from the archived originals with the
+  ceiling lowered by the overshoot measured. See `QC/SeasonOne_Mix_qc.md` (96/96).
+- **Press one-pagers — DONE.** The three artists that had no `index.md` (Mundz, Yogo,
+  Schrödinger's Breakfast) now have one, hardlinked from the working folder like the other nine.
+- **Release tree integrity — DONE.** All 96 files in this tree verified as hardlinks to their
+  working originals. Two gaps were found and closed: Mundz had no `_mix.mp3` here, and
+  Schrödinger's Breakfast had none of the three masters, because the relink step only refreshed
+  filenames that already existed. `tools/sync_release_mix.py` now syncs rather than refreshes.
 - **Habib / Maya / Schrödinger's Breakfast** source masters are extremely quiet
   (loudest 30 s window -35.5 / -27.8 / -26.0 dBFS RMS), so normalising to -14 LUFS
   raises the noise floor. Worth an ear check before press.
