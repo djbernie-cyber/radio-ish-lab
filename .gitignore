@@ -91,3 +91,5 @@ node_modules/
 .radio-ish-tg/
 .venv-tg/
 *.session
+*.torrent
+torrents/
