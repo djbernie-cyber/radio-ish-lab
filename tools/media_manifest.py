@@ -12,7 +12,11 @@ verified from the project root on any machine.
 import hashlib, os, sys, time, datetime
 
 R = "/Users/bernie/Movies/Radio-ish"
-EXT = (".mp3", ".wav", ".mp4", ".mov", ".aiff", ".aif", ".flac", ".m4a", ".png", ".jpg", ".jpeg")
+EXT = (".mp3", ".wav", ".mp4", ".mov", ".aiff", ".aif", ".flac", ".m4a",
+       ".png", ".jpg", ".jpeg",
+       # DAW sessions: irreplaceable source for every render. Without these the
+       # audio restores but no session can be reopened or re-edited.
+       ".asd", ".als", ".flp", ".nksr", ".rpp", ".mxt")
 OUT = f"{R}/qc/SeasonOne_Media_SHA256SUMS"
 os.makedirs(f"{R}/qc", exist_ok=True)
 

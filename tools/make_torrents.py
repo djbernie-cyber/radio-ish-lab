@@ -27,7 +27,11 @@ import hashlib, os, sys, time, datetime
 R = "/Users/bernie/Movies/Radio-ish"
 OUT = os.path.expanduser("~/Radio-ish-torrents")   # deliberately outside the repo
 PIECE = 4 * 1024 * 1024
-EXT = (".mp3", ".wav", ".mp4", ".mov", ".aiff", ".aif", ".flac", ".m4a", ".png", ".jpg", ".jpeg")
+EXT = (".mp3", ".wav", ".mp4", ".mov", ".aiff", ".aif", ".flac", ".m4a",
+       ".png", ".jpg", ".jpeg",
+       # DAW sessions: irreplaceable source for every render. Without these the
+       # audio restores but no session can be reopened or re-edited.
+       ".asd", ".als", ".flp", ".nksr", ".rpp", ".mxt")
 
 ARTISTS = ["SDKZ", "Yogo", "Bernie", "Mundz", "Maya", "Dikier", "DJ Unknown",
            "Alexander Zwo", "Habib", "Parisa", "El Djemba", "Schrödinger’s Breakfast"]
@@ -56,7 +60,7 @@ def collect(dirs):
     for base in dirs:
         if not os.path.isdir(base): continue
         for root, ds, ns in os.walk(base):
-            ds[:] = [x for x in ds if x not in (".git", "Archive", "__pycache__")]
+            ds[:] = [x for x in ds if x not in (".git", "Archive", "__pycache__", ".venv-tg", "node_modules", "dist-info")]
             for n in sorted(ns):
                 if n.lower().endswith(EXT):
                     p = os.path.join(root, n)

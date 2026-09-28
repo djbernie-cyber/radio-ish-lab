@@ -1,6 +1,6 @@
 # Radio-ish Lab — media SHA-256 manifest
 # generated 2026-09-28 by tools/media_manifest.py
-# 514 files — verify with: shasum -a 256 -c qc/SeasonOne_Media_SHA256SUMS
+# 558 files — verify with: shasum -a 256 -c qc/SeasonOne_Media_SHA256SUMS
 # paths are relative to the project root; the manifest is the immutability
 # guarantee, the copies are not. Re-run to detect silent edits.
 
@@ -162,6 +162,7 @@ abde9aeae1ca974e440719339e73f599dcfc49b08048f31a0b15e851bd34e2f3  Parisa/epk/aud
 21f7a79754ea07165078932713b659136f6fd5a569c81e7e1adf1b4f855371a5  Parisa/epk/audio/GX040794.mp3
 f6e5dd4e22e82bab6fc6f94f3403b06bedc698fa7961aeb59ecbdba2911ca73b  Parisa/epk/audio/GX050794.mp3
 8a40e8e3a307503b005f4c594c9d33c69f7c2ce71968d0941e0974943854eab9  Parisa/epk/audio/GX060794.mp3
+490d531a830d09956f7e24626bc48e09fa9175ef3ea14f1d8b96cbb2113f194d  Parisa/epk/audio/GX060794.mp3.asd
 1fbf444d0f6f455efdf2e2dec1556291f6298325bb97d2bc6f176550730a0839  Parisa/epk/audio/PARISA_B4_30s_loop.wav
 ce2ea14e3007e897e9a7243cbba621434a0c35f442e4967181236012360a8bd2  Parisa/epk/audio/parisa_mix_wvideo.wav
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  Parisa/epk/mix/main_mix_video.mp4
@@ -169,7 +170,9 @@ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  Parisa/epk/mix
 ab8a8a4e4aa0451043cc9e13fd8926b200b214d45542ecd50e53dd9729b8120a  Parisa/epk/mix/parisa_mix.mp3
 e30c38f8f85e01fe5b5b44f0966737b13fe945a6c0d4e85bf347e585736c0f49  Parisa/epk/mix/parisa_mix_epk.mp3
 c40bc8938dc6e5da966447e275e5fd3506fcfd2c397cec0764bc1841f2712da8  Parisa/epk/mix/parisa_mix_hq Project/Samples/Imported/parisa_mix_hq.mp3
+4ee6458fba6ef4ac01bd8b7a15c8fcf6b12eeaf05ccf3040daff59b5851db0d4  Parisa/epk/mix/parisa_mix_hq Project/Samples/Imported/parisa_mix_hq.mp3.asd
 ab8a8a4e4aa0451043cc9e13fd8926b200b214d45542ecd50e53dd9729b8120a  Parisa/epk/mix/parisa_mix_hq.mp3
+4ee6458fba6ef4ac01bd8b7a15c8fcf6b12eeaf05ccf3040daff59b5851db0d4  Parisa/epk/mix/parisa_mix_hq.mp3.asd
 fca07d7b3941024a86df266ff10f6a2100578fb9ac90d5af943d59afc398bcce  Parisa/epk/processing/GX020794_hq.mp3
 22cbe626fab4af04daa286c24afe143520754d87396b9b2a560dc30bbcdd8b53  Parisa/epk/processing/GX030794_hq.mp3
 94ec725bf640799b648370dd782b4ca6fddcedcbaf4a69804045701bab95e2a5  Parisa/epk/processing/GX040794_hq.mp3
@@ -496,25 +499,66 @@ d7b02e2c79834ab3bdd01474d219fb79cfa3b95d12964806b8a626ca1baea746  Yogo/epk/promo
 e4ae278df20426bb99a539843f5adc94b769dc051217de2ba2dd7f6961869436  Yogo/epk/video/2026-09-24 15-10-39.mov
 4654c688f8e561f03bedaee0243e70e00b591e5792881cf5cd1bf55f165b8613  Yogo/epk/video/2026-09-24 15-49-02.mov
 2cb564092f974b6ef63a1332c747b0368d98d07eb118c94821a2a920fbe1d0e2  Yogo/epk/video/YOGO_B4_EPK_30s.mp4
+9726428a24f5ff4dae4d58ec9a64b4cf783935c23c0931ce82eb729fa702407f  radio-ish 2 Project/Anthony.als
+ff88a8f18ed8cd7d56b8bff2669658824b62cb96f31051614b153dd3796e9d7c  radio-ish 2 Project/Backup/Untitled [2026-09-15 003504].als
+9f0b6910c7b1241541dd445c7add016a843dbf40ec2292a4094cdd98b59cc65e  radio-ish 2 Project/Backup/Untitled [2026-09-17 152255].als
+a7b56e942a3270262bec1cd15d1ecff8da10c1f9b85263d75e9f86b381561ee4  radio-ish 2 Project/Backup/schrödinger's breakfast [2026-09-21 173607].als
+f5ad9b533f5e9ee3b9415abf51bf8a6e858a3de1e0e13a851f44d56554080951  radio-ish 2 Project/Bernie4.als
+2c30eb74c7f909fd9a37e5e2ea1d2268e8d14141ae914d1eb7710750aabee3f8  radio-ish 2 Project/Bossman Bernie.als
 371fcfcb61c3cba7574effc87941bb8fc19455e01f15241b42d7579703b2828f  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-10 134659].wav
+0585297e9dca7d6f519fbd8b241cb49051938d3e40ccd1a69b7eb384b3372c00  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-10 134659].wav.asd
 c02b23f3e808e1b989fedebd0f0af1c3643d4ddf255bd8df7710d5357c7aa6b6  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-14 133632].wav
+8e3b58a24777379d74b8fcab1d70dcf0eb452c2804663cd7e830a42d5b51d4f2  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-14 133632].wav.asd
 d6c54179043d52469024892223c63199961c435db70a5f4b9f4fc71b85a14957  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-14 135732].wav
+a3adf9f0df24ec72654c0e8f302c29a5216e7ce2b58b7288976575e21c09cc35  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-14 135732].wav.asd
 e74122f187d654b9ad3ee01942692248fd1d49c02954ce61b9317b60d62e028a  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 141259].wav
+f0b9de6b0443a4019d5b91859fcefe5404180cf5290701c9d155e6fedae52026  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 141259].wav.asd
 fbe963dd59be34dcaaf0b1ee0ef7f0bc38469470a4dfd40457cf9f25a2af2462  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 142608].wav
+772cff16e4f7510dc01fda3e02d0c53227093c4c08627423a80126aeaf2f2043  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 142608].wav.asd
 600fc0abd2eb383e3e6cd052b09681a7754ce745f99f979501b5e000d02d5dc9  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 152305].wav
+fa54a75d4a73f73bc4eb7123e3cfd2d4d1337f92797310b81940404ec0f1b852  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-17 152305].wav.asd
 b5b450a4b1d6dedd76efd34877adbe7bb9541e450bbc3d736948bf8f7f7d4912  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-19 151633].wav
+f00e827e4c4da9c9f138a4a405e6b2ebf011c4e92b423cf5c9866245c5230c54  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-19 151633].wav.asd
 95fef461899b9baa33807afc2e4e0dfb69212f904c32ef169353ea21fd266afb  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-19 152055].wav
+5ae43d8b698f2fd5f50a3ec95552d22ced5c44bbab40b3ed8c2b34498a75fb16  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-19 152055].wav.asd
 487d3c602e2e41124f7e711bc6a6f63494b27af2abe0591a54727b371e248efe  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-21 130546].wav
+afe899d3ad692c9315a3c5c6623b0b4a15eae75b67ed736a1c68897da726315f  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-21 130546].wav.asd
 8fe38f4117c0ee2ad0431bf7b9e9ba1de0ac22b776ab65ba67feca8b2d2babaf  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-24 130857].wav
+cca0bb8794948ae0182daa57a589406a9218540b86c67110f79da587e37253f5  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-24 130857].wav.asd
 57976d611d700f391bfa2b1dc563db45264e9c375c01c73e2ad2f415bbfe37b1  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-24 151020].wav
+f8dd45ee9ac94acc304ada18490d75ed512d2782efe4c34e2dc1c7be7bb4af63  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-24 151020].wav.asd
 788e3f10ace43e6badf3ea92fd63d01fbf6752692429d00cbd1b8adca950265d  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-26 150323].wav
+803f47ac1ccfbf325a6b38913efdd064d74f0f09ad1263971e0ab9147db2337c  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-26 150323].wav.asd
+5c765ee8689ff14937bf15ab3e25e1adab6d920c17bb407cafb90c1f82daee6c  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-28 140653].wav
+71c6f86aa7452c8a101103f85391371a4b4abad066d81ac63d0f496a1f502f55  radio-ish 2 Project/Samples/Recorded/4-Audio 0001 [2026-09-28 140653].wav.asd
 ba6bb9fbd063ff52139f4d7b0702b72838f25e3b13ad90f28ba27712e7ebfe59  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-10 135242].wav
+80fbeb980883bc95fd76f5681b64c6676e79cf8e321032a30220bf7ada2f4122  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-10 135242].wav.asd
 ed187d9e07ee643cf08a051b2d857b0861b704e5e76816b4c72ae4cfae6394e1  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-17 152133].wav
+88e8b8a607c208bd182dda20f45b08063e51d9228fb072c0feba140560c413c8  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-17 152133].wav.asd
 fb6c15f4972030285dffd7b08bdd0417adbd3c3c7700fc1b35550c27869c55df  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-19 152134].wav
+93598eb1392f99c74a483e2d463bb5ef1d8c49c2b0a96a3cf8f4caa4d8112b24  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-19 152134].wav.asd
 7dda784727d0032368be329618a77445a980589902517e1284b20881dec997d7  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-24 154832].wav
+aefe73be269f48d6e2b5e9fa1c24c9d1decb3eb5a53302ddcc36ef4ef193ad45  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-24 154832].wav.asd
 52fd9293ce8b3455d4f027548279f3aab7b9ada2a5b75dbff93ac10c9892e122  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 135840].wav
+16cfa25e62fef032fd2bca580c8e0e067b4ebe8e30b187cdb1f369ae4596c35c  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 135840].wav.asd
+1904e3d290546844050e1cddac43cce8291398e4c7ad8affaac0a0c3902d43aa  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 141533].wav
+ce5865d6021fe0af9442e1090f814b904b2754fe4d4b17392a43cf9857b6c60f  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 141533].wav.asd
+2a1af4bedcc29464b54e145b2110827fed32f6b615a66741275d63234b4bb15a  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 141535].wav
+ac84d3832a9769dff5316751c69635d2a530197a9cddda6ed5ba49fd0ea1dca7  radio-ish 2 Project/Samples/Recorded/4-Audio 0002 [2026-09-28 141535].wav.asd
 8c3dc7a0f1835853d153ed0cce042ad0158b745bd3e983c35991313f10441f6c  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-10 141820].wav
+313d302721a716c3add89878a353c59df9206fb029848e2b68d3dc8852bb8503  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-10 141820].wav.asd
 aa254f41c1a4e0189f3d8a7ab13726d80d231f614c7179685131f8fa5174b639  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-14 165334].wav
+9922fc4839a7ccfdaba789497567722f5b7636ff9029aaf6e124048785103884  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-14 165334].wav.asd
 7365dad89f6bd9408dda9d364c566757d1ae03864c88d0a7af0b50a5fa96f6d4  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-19 160731].wav
+077d5212202cd4d55a6a4f512d9f4d5d78c9f73bce637a5b1fdc772d07fdb090  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-19 160731].wav.asd
 abc37e59eb8a38492117a2c0311c9908415f9295ecd47aac612ee0961c70de09  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-24 154843].wav
+f22e41a0e545290f3c7f69ce446c1c956d4a0e4eb30d6f102c8cfc18ad35948c  radio-ish 2 Project/Samples/Recorded/4-Audio 0003 [2026-09-24 154843].wav.asd
 e74dad78956b19cd6b3d6af1afc077099dc8788bd93ebf91de631faa34204a54  radio-ish 2 Project/Samples/Recorded/4-Audio 0004 [2026-09-10 142014].wav
+9c780213ff0ce8127378bc3154d070a7dbbcbde67ee835182f79caf4882fb161  radio-ish 2 Project/Samples/Recorded/4-Audio 0004 [2026-09-10 142014].wav.asd
+5216d25e23920f1658369fccc55322961938f7b6b7c56465ba1ea50d4db261fa  radio-ish 2 Project/Untitled.als
+5b55278499752920f318e597dbc3928dff3525302f37f9acb4a3cbbc24b8fbb3  radio-ish 2 Project/Untitledi.als
+8c11e2aec4ed97a3c8968cdcbc432d37006f50b5337c9ed5286f39631bfee92b  radio-ish 2 Project/Yogo.als
+140f5ffad72bf9692fc8a795e81ca99f725805b1899cdc7957edef3a05a3c8f3  radio-ish 2 Project/parisa new 11.als
+14d23c43567bbc4b14f4d5d70e282454e15226b19368ceb84b3ada0c78fd275f  radio-ish 2 Project/radio-ish 2.als
+60202e8543d3fc9a9296e58222cca0f4fdea55e1aa905d5b2f03d38f6d73ec56  radio-ish 2 Project/schrödinger's breakfast.als
+993edec60f4254010d832b4b6ffa23f0285db70d5529065cff1b1e59458d82d5  radioish Project/radioish.als
